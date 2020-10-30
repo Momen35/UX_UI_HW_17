@@ -1,0 +1,38 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+
+
+}
+
+.nagivation {
+    width: 73%;
+    padding: 1%;
+
+
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+
+
+}
+
+.buttom {
+    background-color: #373738;
+    padding: 1%;
+}
+
+.buttom ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 1%;
+}
